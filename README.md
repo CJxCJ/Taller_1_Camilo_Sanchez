@@ -2,6 +2,12 @@
 
 ## Explicacion puntos taller 1 
 
+## Punto 1
+Resultado del quiz de python:
+
+![quiz_taller_1_resuelto](https://github.com/CJxCJ/Taller_1_Camilo_Sanchez/assets/115903431/3220b327-95d0-47c4-a21e-a515f763c5f8)
+
+
 ## Punto 2
 
 En este codigo se pide que ingresen los 3 numeros reales para empezar el programa, cuando este empieza por medio del condicional if se comparan y dependiendo de cual sea el mayor imprime la repuesta correspondiente al mayor, si no se cumple las condiciones establecida arojara un mensaje de que no hay un valor mayor.
