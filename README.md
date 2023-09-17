@@ -96,12 +96,12 @@ else:
 
 ## Punto 7
 
-En este codigo se piden 5 numeros reales, estos numero se operan en unas variables 
-establecidas para ahorrar lineas de codigo y simplificar. las variables son:
+En este codigo se piden 5 numeros reales, estos numeros se operan en unas variables 
+establecidas para ahorrar lineas de codigo y simplificar. Las variables son:
 
-- prom: las cual saca el promedio
+- prom: la cual saca el promedio entre los 5 numeros
 
-- orde: es una lista de los numeros en el orden ingresado. que luego se ordena en orden      ascedente con el comando .sort
+- orde: es una lista de los numeros en el orden ingresado. que luego se ordena de forma ascedente con el comando .sort
 
 - medi: la mediana, sacando el 3er numero de la lista orde.sort
 
