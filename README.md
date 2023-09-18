@@ -400,6 +400,10 @@ print("tomaria" ,"{0:.5f}".format(x/vehiculo), "horas en recorrer" ,x,"km a la v
 print("tomaria" ,"{0:.5f}".format(x/bolt), "horas en recorrer" ,x,"km a la velocidad maxima de Usain Bolt")
 
 ````
+### Su repectivo diagrama de flujo:
+
+![diagrama_punto_10_taller_1](https://github.com/CJxCJ/Taller_1_Camilo_Sanchez/assets/115903431/f2beab74-b7c0-4d78-a363-5a0802ced6ce)
+
 
 
 
