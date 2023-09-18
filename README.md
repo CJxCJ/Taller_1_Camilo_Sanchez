@@ -1,4 +1,6 @@
-# Taller_1_Camilo_Sanchez
+# Taller 1 - Team NA
+
+## Camilo Jose Sanchez Vilamar
 
 ## Explicacion puntos taller 1 
 
