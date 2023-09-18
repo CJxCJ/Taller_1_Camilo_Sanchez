@@ -1,4 +1,6 @@
-# Taller 1 - Team NA
+# Taller 1 - CodeHouse
+
+![logo_codehouse|100](https://github.com/CJxCJ/Taller_1_Camilo_Sanchez/assets/115903431/0617e276-9955-4f84-bb66-9a740f355b0f)
 
 ## Camilo Jose Sanchez Vilamar
  
@@ -122,7 +124,7 @@ establecidas para ahorrar lineas de codigo y simplificar. Las variables son:
 
 - cub: saca la raiz cubica de men, el menor, elevandolo a la potencia de 1/3
 
-Despues de plantear todas esas variables se procede a imprimir todas las respuestas solcitadas simplemente llamando las variables
+Despues de plantear todas esas variables se procede a imprimir todas las respuestas solcitadas simplemente llamando las variables.
 
 ````code
 v = float(input("ingrese el primer numero: "))
@@ -403,6 +405,10 @@ print("tomaria" ,"{0:.5f}".format(x/bolt), "horas en recorrer" ,x,"km a la veloc
 ### Su repectivo diagrama de flujo:
 
 ![diagrama_punto_10_taller_1](https://github.com/CJxCJ/Taller_1_Camilo_Sanchez/assets/115903431/f2beab74-b7c0-4d78-a363-5a0802ced6ce)
+
+## Muchas gracias por llegar hasta el final del repositorio 
+
+# ༼ つ ◕_◕ ༽つ
 
 
 
