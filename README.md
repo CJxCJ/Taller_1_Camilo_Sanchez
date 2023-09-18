@@ -1,9 +1,7 @@
 # Taller 1 - Team NA
 
 ## Camilo Jose Sanchez Vilamar
-
-## Explicacion puntos taller 1 
-
+ 
 ## Punto 1
 Resultado del quiz de python:
 
